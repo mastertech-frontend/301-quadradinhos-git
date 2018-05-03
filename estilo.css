@@ -1,0 +1,13 @@
+#externa {
+  height: 300px;
+  display: flex;
+  border: 2px solid black;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.interna {
+  width: 20%;
+  height: 100px;
+  border: 2px dotted black;
+}
